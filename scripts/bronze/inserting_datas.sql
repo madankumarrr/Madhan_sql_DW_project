@@ -1,4 +1,6 @@
-/* just inserting the valus to the tables in bulk insert method*/
+/* 
+this expectional file not mandatory
+just inserting the valus to the tables in bulk insert method*/
 use madhandatawarehouse;
 go
 truncate table bronze.crm_cust_info;
