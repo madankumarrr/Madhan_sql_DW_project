@@ -1,4 +1,6 @@
-
+/* 
+this expectional file not mandatory
+just inserting the valus to the tables */
 print ('truncating table silver.crm_cust_info');
 truncate table silver.crm_cust_info;
 print('loading data to silver.crm_cust_info ');
